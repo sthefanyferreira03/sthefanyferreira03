@@ -1,4 +1,4 @@
-Oii! Eu sou a Sthefany, muito prazer! Tenho 20 anos e estou atualment em migração da área de marketing analítico para a área de ciência de dados.
+Oii! Eu sou a Sthefany, muito prazer! Tenho 20 anos e estou atualmente em migração da área de marketing analítico para a área de ciência de dados.
 
 **Estudos**
 - Análise e Desenvolvimento de Sistemas (FIAP)
